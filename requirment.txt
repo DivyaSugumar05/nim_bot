@@ -1,7 +1,0 @@
-deepseek
-python-dotenv
-langchain_nvidia_ai-endpoints
-langchain_community
-faiss-cpu
-streamlit
-pypdf
